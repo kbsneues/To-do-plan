@@ -1,9 +1,3 @@
-//
-//  kbsfunctions.swift
-//  MyTodoListManager_1_bosung1209
-//
-//  Created by 김보성 on 2023/10/27.
-//
 
 import Foundation
 
